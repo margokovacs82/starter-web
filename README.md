@@ -12,6 +12,16 @@ Lorem ipsum.
 
 ## Something else
 
+## Purpose
+
+Sample website with plenty of files for demos
+
+## Deployment
+
+Lorem ipsum.
+
+## Something else
+
 Lets see whats different here.
 Lets see whats different here.
 
