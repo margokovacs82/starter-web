@@ -8,31 +8,15 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Lorem ipsum.
-
-## Something else
-
-## Purpose
-
-Sample website with plenty of files for demos
-
-## Deployment
-
-Lorem ipsum.
-
-## Something else
-
-Lets see whats different here.
-Lets see whats different here.
-
-Lets see whats different here.
-
-# Starter Web Repo
+Lo
 
 This repository is for showing how Git and GitHub work
 
 ## Purpose
 
 Lorem ipsum.
+Lorem ipsum.
+Lorem ipsum.
+
 Lorem ipsum.
 Lorem ipsum.
